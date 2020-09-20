@@ -164,10 +164,10 @@ require_once('../Exhibition/mysqli_connect.php');
  echo '<div class="container">
           <table class="table table-condensed table-hover ">
             <thead class="thead-dark"><tr>
-            <td align="center"><b>INSTITUTION ID (ecode)</b></td>
-            <td align="center"><b>INSTITUTION NAME (icode)</b></td>
-            <td align="center"><b>INSTITUTION LOCATION (etitle)</b></td>
-            <td align="center"><b>INSTITUTION HEAD (edate)</b></td>
+            <td align="center"><b>INSTITUTION ID (icode)</b></td>
+            <td align="center"><b>INSTITUTION NAME (iname)</b></td>
+            <td align="center"><b>INSTITUTION LOCATION (ilocation)</b></td>
+            <td align="center"><b>INSTITUTION HEAD (ihead)</b></td>
             </tr></thead>';
 
 while($row = mysqli_fetch_array($response)){
