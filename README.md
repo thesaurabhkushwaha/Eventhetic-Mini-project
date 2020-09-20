@@ -22,4 +22,5 @@
 ![Screenshot (190)](https://user-images.githubusercontent.com/61655919/93704965-c9c29600-fb36-11ea-90cc-578fbf49d132.png)
 
 
-**TRIGGER WARNING**: Boilerplate code everywhere and minimal design effort.
+**TRIGGER WARNING**: 1. Boilerplate code everywhere and minimal design effort.
+                     2. Windows watermark.
