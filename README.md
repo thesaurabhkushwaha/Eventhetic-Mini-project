@@ -13,6 +13,10 @@
 > 1. Boilerplate code everywhere and minimal design effort.
 > 2. Windows watermark.
 
+
+
+## Screenshots
+
 * **Home page**
 ![Screenshot (187)](https://user-images.githubusercontent.com/61655919/93704955-a3045f80-fb36-11ea-9f00-9208846c53ad.png)
 
