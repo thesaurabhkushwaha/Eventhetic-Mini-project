@@ -9,6 +9,10 @@
 
 * This was submitted as "Mini project" under the "Web Technologies" subject of seventh semester BE CSE degree by me.
 
+> **TRIGGER WARNING**: 
+> 1. Boilerplate code everywhere and minimal design effort.
+> 2. Windows watermark.
+
 * **Home page**
 ![Screenshot (187)](https://user-images.githubusercontent.com/61655919/93704955-a3045f80-fb36-11ea-9f00-9208846c53ad.png)
 
@@ -20,8 +24,3 @@
 
 * **Admin login page**
 ![Screenshot (190)](https://user-images.githubusercontent.com/61655919/93704965-c9c29600-fb36-11ea-90cc-578fbf49d132.png)
-
-
-> **TRIGGER WARNING**: 
-> 1. Boilerplate code everywhere and minimal design effort.
-> 2. Windows watermark.
