@@ -1,5 +1,5 @@
 # **Eventhetic-Mini-project**
-* Plan was to make a basic website to hold information about events (seminars, product launches, science exhibitions etc.) being organized revolving around academics.
+* A website to hold information about events (seminars, product launches, science exhibitions etc.) being organized revolving around academics.
 
 * This project allows admin to login (just by matching backend password stored in md5, no session management) and perform CRUD operations.
 
@@ -12,7 +12,7 @@
 > **NOTE**: 
 > 1. Boilerplate code everywhere and minimal design effort.
 > 2. Windows watermark.
-> 3. All data shown in screenshots is 
+> 3. All data shown in screenshots is mock.
 
 
 
