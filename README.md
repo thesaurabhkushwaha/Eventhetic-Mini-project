@@ -11,8 +11,7 @@
 
 > **NOTE**: 
 > 1. Boilerplate code everywhere and minimal design effort.
-> 2. Windows watermark.
-> 3. All data shown in screenshots is mock.
+> 2. All data shown in screenshots is mock. 
 
 
 
