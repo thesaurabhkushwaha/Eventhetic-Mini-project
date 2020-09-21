@@ -7,7 +7,7 @@
 
 * This project will soon be re-done and re-designed using Django with basic user authentication and better use of code.
 
-* This was submitted as "Mini project" under the "Web Technologies" subject of 7h semester (2019) BE CSE degree by me.
+* This was submitted as "Mini project" under the "Web Technologies" subject of 7th semester (2019) BE CSE degree by me.
 
 > **NOTE**: 
 > 1. Boilerplate code everywhere and minimal design effort.
