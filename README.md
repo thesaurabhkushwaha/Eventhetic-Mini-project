@@ -5,14 +5,12 @@
 
 * Made using **HTML,CSS,Bootstrap, XAMPP and PHP** in an effort to get familiar with these technologies and complete the college requirements.
 
-* This project will soon be re-done and re-designed using Django with basic user authentication and better use of code.
-
 * This was submitted as "Mini project" under the "Web Technologies" subject of 7th semester (2019) BE CSE degree by me.
 
 > **NOTE**: 
 > 1. Boilerplate code everywhere and minimal design effort.
 > 2. All data shown in screenshots is mock. 
-
+> 3. This project will soon be re-done using Django with basic user authentication and better use of code.
 
 
 ## Screenshots
